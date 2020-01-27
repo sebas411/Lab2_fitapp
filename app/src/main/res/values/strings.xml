@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Fit app</string>
+    <string name="start">0</string>
+    <string name="vuelta">vuelta</string>
+    <string name="reiniciar">reiniciar</string>
 </resources>
